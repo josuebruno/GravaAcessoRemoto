@@ -65,7 +65,5 @@ msra_20250715_010608.mp4
 - O encerramento incorreto do `ffmpeg` pode corromper o vídeo. Por isso, o script usa o encerramento via stdin (`q`) para evitar perda de dados.
 - O script é ideal para uso em ambientes controlados, como redes corporativas, laboratórios e helpdesks.
 
----
-
-**Autor:** Menina Cheia de Graça – Beyoncé Forever  
+ 
 **Versão:** 2025-07-15  
